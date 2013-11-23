@@ -164,7 +164,7 @@ SUPPORTED_APPS = {
 
     'Fantastical': [PREFERENCES + 'com.flexibits.fantastical.plist'],
 
-    'Filezilla': ['.filezilla/'],
+    'Filezilla': ['.filezilla/sitemanager.xml', '.filezilla/layout.xml', '.filezilla/filezilla.xml'],
 
     'Fish': ['.config/fish'],
 
