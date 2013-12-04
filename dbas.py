@@ -335,10 +335,6 @@ SUPPORTED_APPS = {
 
     'Sequel Pro': [APP_SUPPORT + 'Sequel Pro/Data'],
 
-    'Services': ['Library/Services'],
-
-    'SHSH Blobs': ['.shsh'],
-
     'Shuttle': ['.shuttle.json'],
 
     'SizeUp': [PREFERENCES + 'com.irradiatedsoftware.SizeUp.plist',
