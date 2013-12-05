@@ -245,6 +245,8 @@ SUPPORTED_APPS = {
     'MercuryMover': [PREFERENCES + 'com.heliumfoot.MyWiAgent.plist'],
 
     'Nano': ['.nanorc'],
+    
+    'Navicat': [APP_SUPPORT + 'PremiumSoft CyberTech/preference.plist'],
 
     'nvALT': [PREFERENCES + 'net.elasticthreads.nv.plist',
               APP_SUPPORT + 'Notational Velocity',
